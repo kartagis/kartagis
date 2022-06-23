@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kartagis
+- 👀 I’m interested in Drupal and all things PHP.
+- 🌱 I’m currently learning nothing but I'm definitely going to dive in Laravel.
